@@ -27,3 +27,7 @@ We use ***Apache2.0*** License
 > > * Juan Lv / 吕娟
 > > * Huinan Wang / 王慧楠
 
+## Third-Party Components
+* Pinyin https://github.com/chain-zhang/pinyin
+* echo https://github.com/labstack/echo
+* serial https://github.com/tarm/serial
