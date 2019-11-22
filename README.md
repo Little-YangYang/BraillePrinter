@@ -14,7 +14,7 @@
 We use ***Apache2.0*** License
 
 ## Author
-> Team leader ：Qiuyan Yao / 姚秋燕
+> Team leader ：Qiuyan Yao / 姚秋艳
 >
 > Instructor : Mingjie Pan / 潘铭杰
 >
@@ -25,7 +25,7 @@ We use ***Apache2.0*** License
 > Mechanical structures ： 
 > > * Yuancheng Dai / 戴园城
 > > * Juan Lv / 吕娟
-> > * Huinan Wang / 王慧楠
+> > * Huinan Wang / 王惠楠
 
 ## Third-Party Components
 * Pinyin https://github.com/chain-zhang/pinyin
